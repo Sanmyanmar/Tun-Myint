@@ -1,2 +1,2 @@
 # Tun-Myint
-mobile theme font display in every app 
+mobile theme my font display in every app 
